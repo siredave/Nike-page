@@ -1,5 +1,14 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+
+// src/assets/images/index.js
+
+import shoe21 from '../assets/images/shoe21.jpg';
+import shoe22 from '../assets/images/shoe22.jpg';
+import shoe23 from '../assets/images/shoe23.jpeg';
+
+export { shoe21, shoe22, shoe23 };
+
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -31,17 +40,17 @@ export const statistics = [
 
 export const products = [
     {
-        imgURL: shoe4,
+        imgURL: shoe21,
         name: "Nike Air Jordan-01",
         price: "$200.20",
     },
     {
-        imgURL: shoe5,
+        imgURL: shoe22,
         name: "Nike Air Jordan-10",
         price: "$210.20",
     },
     {
-        imgURL: shoe6,
+        imgURL: shoe23,
         name: "Nike Air Jordan-100",
         price: "$220.20",
     },
@@ -122,3 +131,8 @@ export const socialMedia = [
     { src: twitter, alt: "twitter logo" },
     { src: instagram, alt: "instagram logo" },
 ];
+
+
+
+
+
