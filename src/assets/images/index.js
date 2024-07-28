@@ -21,7 +21,19 @@ import thumbnailShoe1 from './thumbnail-shoe1.svg'
 import thumbnailShoe2 from './thumbnail-shoe2.svg'
 import thumbnailShoe3 from './thumbnail-shoe3.svg'
 
+import shoe21 from './shoe21.jpg'
+import shoe22 from './shoe22.jpg'
+import shoe23 from './shoe23.jpeg'
+import shoe24 from './shoe24.jpg'
+
+
 export {
+    
+    shoe21,
+    shoe22,
+    shoe23,
+    shoe24, 
+
     bigShoe1,
     bigShoe2,
     bigShoe3,
