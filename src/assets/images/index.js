@@ -25,14 +25,15 @@ import shoe21 from './shoe21.jpg'
 import shoe22 from './shoe22.jpg'
 import shoe23 from './shoe23.jpeg'
 import shoe24 from './shoe24.jpg'
-
+import shoe27 from './shoe27.jpeg'
 
 export {
     
     shoe21,
     shoe22,
     shoe23,
-    shoe24, 
+    shoe24,
+    shoe27, 
 
     bigShoe1,
     bigShoe2,

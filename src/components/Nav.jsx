@@ -17,7 +17,7 @@ export const Nav = () => {
 							  className="font-montserrat leading-normal text-lg text-slate-grey hover:text-blue-600 transition duration-200 ease-in-out">
 							 {item.label}
 						   </a>
-						 </li> 
+						   </li> 
  					 ))}
 				</ul>
 				<div className="hidden max-lg:block">
